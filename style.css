@@ -1,0 +1,47 @@
+.warp {
+    display: flex;
+}
+
+.header {
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+}
+
+.nav-left {
+
+}
+
+.nav-right {
+
+}
+
+.hero {
+
+}
+
+.header-image {
+
+}
+
+.main {
+    display: flex;
+}
+
+.main-image {
+
+}
+
+.queote {
+    display: flex;
+}
+
+.action {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
